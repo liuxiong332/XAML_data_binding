@@ -1,0 +1,5 @@
+*.suo
+Windows/obj
+Windows/bin
+WindowsPhone/obj
+WindowsPhone/bin
